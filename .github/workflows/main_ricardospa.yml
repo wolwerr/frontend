@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ricardospa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_737082A795DC433FAF3B977ADD819700 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFBD6E7CD6E5499489DBEC47AC627D1B }}
           package: .
